@@ -1,0 +1,13 @@
+{
+  "name":"pwa测试",
+  "short-name":"pwa",
+  "start_url":"/index.html",
+  "icons":[{
+    "src":"/logo.png",
+    "sizes":"144x144",
+    "type":"image/png"
+  }],
+  "background_color":"skyblue",
+  "theme_color":"yellow",
+  "display":"standalone" 
+}

@@ -1,0 +1,8 @@
+{
+  "name":"pwa测试",
+  "short-name":"pwa",
+  "start_url":"/index.html",
+  "icons":[{
+    "src":"images/logo.png",
+    "sizes":"144x144"
+  }] 
